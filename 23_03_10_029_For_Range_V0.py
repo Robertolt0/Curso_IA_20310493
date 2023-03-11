@@ -8,4 +8,4 @@ Sintaxis 3: range(inicio del valor de incremento, final de incremento, cantidad 
 # 7 hasta el valor 700 en saltos de 100. 
 # Basta con que imprimas el valor de cada iteración.
 for x in range(7,700,100):
-    print('Valor de x'+ x)
+    print('Valor de x', x)
